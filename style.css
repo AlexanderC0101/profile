@@ -1,0 +1,55 @@
+
+body {
+color: #00b4d8;
+font-family: 'Open Sans', 'Mouse Memoirs';
+font-weight: 150;
+background-image: url("images/00.jpeg");
+background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.img-circle {
+  border-radius: 50%;
+  height: 150px;
+}
+
+.container {
+  width: 500px;
+  margin: 50px auto;
+  border-radius: 70%;
+  width: 700px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.card-white {
+  background: #03045e;
+  padding: 30px;
+  width: 500px;
+  margin: 0 auto;
+  border-radius: 60%;
+}
+.home-page-first-image {
+  border-radius: 50%;
+}
+
+.list{
+  padding: 0;
+  list-style: none;
+}
+
+.home-card {
+  text-align: center;
+  background: green;
+  padding: 30px;
+  border: 1px solid lightgrey;
+}
